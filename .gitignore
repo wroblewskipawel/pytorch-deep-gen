@@ -135,4 +135,4 @@ dmypy.json
 data/
 
 # Models
-models/
+/models
