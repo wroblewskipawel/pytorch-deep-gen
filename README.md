@@ -11,6 +11,6 @@ At this moment models based on following papers were implemented:
 
 * [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434)
 
-Experiments that can be found inside [jupyter notebooks](./notebooks/) are mainly based on CIFAR10 and [Describable Textures Dataset](https://www.robots.ox.ac.uk/~vgg/data/dtd/).
+Experiments that can be found in [jupyter notebooks](./notebooks/) are mainly based on CIFAR10 and [Describable Textures Dataset](https://www.robots.ox.ac.uk/~vgg/data/dtd/).
 
 This repository is curently in active development.
